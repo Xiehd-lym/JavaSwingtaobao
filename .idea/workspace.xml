@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c62ba05-438e-4a56-843f-31b0f87394eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\JavaPackage\apache-maven-3.8.1\conf\repository" />
+        <option name="mavenHome" value="E:/JavaPackage/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\JavaPackage\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2LikXe8m0ewOaczMbdhFUuudDib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/zhuomian/文件夹/我的零碎时间/资料/代码/超市/JavaSwingtaobao",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.38818076",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\项目\taobao\src\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="taobao" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c62ba05-438e-4a56-843f-31b0f87394eb" name="Changes" comment="" />
+      <created>1676361331961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676361331961</updated>
+      <workItem from="1676361333658" duration="2793000" />
+      <workItem from="1677981858711" duration="255000" />
+      <workItem from="1677982548124" duration="901000" />
+      <workItem from="1677983466337" duration="301000" />
+      <workItem from="1678597969146" duration="79000" />
+      <workItem from="1678599908016" duration="56000" />
+      <workItem from="1678610269485" duration="183000" />
+      <workItem from="1679908915588" duration="373000" />
+      <workItem from="1680795782225" duration="215000" />
+      <workItem from="1682690043734" duration="85000" />
+      <workItem from="1684835736477" duration="358000" />
+      <workItem from="1684836453158" duration="1384000" />
+      <workItem from="1684837876575" duration="293000" />
+      <workItem from="1685095538952" duration="536000" />
+      <workItem from="1685766684138" duration="7773000" />
+      <workItem from="1685791650759" duration="432000" />
+      <workItem from="1686038124855" duration="629000" />
+      <workItem from="1686053652931" duration="1308000" />
+      <workItem from="1687619118622" duration="258000" />
+      <workItem from="1687619494935" duration="336000" />
+    </task>
+    <task id="LOCAL-00001" summary="修复输入框输入中文时，窗口白屏问题">
+      <created>1676361854131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676361854131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加退出登录功能">
+      <created>1685774362631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685774362631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加退出登录功能">
+      <created>1685774510258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685774510258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加退出登录功能">
+      <created>1685792056112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685792056113</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加退出登录功能">
+      <created>1686038557158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686038557158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="修复输入框输入中文时，窗口白屏问题" />
+    <MESSAGE value="增加退出登录功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加退出登录功能" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/UpdatePassword.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
